@@ -1,0 +1,28 @@
+Static variable :-	A). It can be accessed using class name.
+  				  	B). Static variables can be accessed by static and non static methods.
+  				  	c). Static variables reduce the amount of memory used by a program.
+  				  	D). Static variables are shared among all instances of a class.
+  				  	E). Static variable is like a global variable and is available to all methods.
+
+School classroom example -> Class Number, Class teacher, subjects, etc.
+
+	 
+	
+	
+Non-static variable :-	A). Non static variables can be accessed using instance of a class.
+						B). Non static variables cannot be accessed inside a static method directly.
+						c). Non static variables do not reduce the amount of memory used by a program.
+						D). Non static variables are specific to that instance of a class.
+						E). Non static variable is like a local variable and they can be accessed through only instance of a class.
+
+School classroom example -> Student name, roll number, marks etc.
+
+
+
+		
+						
+						
+						
+						
+			  	
+  				  	
