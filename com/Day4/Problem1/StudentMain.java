@@ -1,4 +1,4 @@
-package com.Day4;
+package com.Day4.Problem1;
 
 public class StudentMain {
 

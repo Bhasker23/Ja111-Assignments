@@ -43,18 +43,16 @@ public class Student {
 		return collageName;
 	}
 	
-	public static Student getStudent(boolean isFromNIT) {
-		
-		return getStudent(isFromNIT);
-		
-	}
+//	public static Student getStudent(boolean isFromNIT) {
+//		
+//		return getStudent(isFromNIT);
+//		
+//	}
 	
 	public static void main(String[] args) {
 		
-	Student s1 = getStudent(false);
 	
-		
-	System.out.println(s1);
+		System.out.println("12346");
 	
 	}
 
