@@ -1,5 +1,7 @@
 package com.Day4;
 
+
+
 public class OddEven {
 
 	void fun(int num) {
@@ -10,7 +12,8 @@ public class OddEven {
 			System.out.println("Error");
 		}
 		else if (num % 2 == 0) {
-			System.out.println(num);
+
+	System.out.println((Math.ceil((double)num/10)*10));
 		}
 	}
 	
@@ -18,5 +21,6 @@ public class OddEven {
 		
 		OddEven num = new OddEven();
 		num.fun(44);
+		
 	}
 }

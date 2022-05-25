@@ -42,8 +42,9 @@ public class Main {
 		System.out.println(student1.getMarks());
 		System.out.println();
 		
-	}
 		
+	}
+		s1.close();
 	}	
 	
 }
